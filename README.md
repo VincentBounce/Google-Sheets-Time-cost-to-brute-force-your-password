@@ -2,7 +2,7 @@
 
 ## 📖Dynamic open-source Google Sheets tables
 
-**I coded an automatic dynamic table** inspired by the famous static tables from https://www.hivesystems.com/blog/are-your-passwords-in-the-green
+**I coded automatic dynamic tables** inspired by the famous static tables from https://www.hivesystems.com/blog/are-your-passwords-in-the-green
 
 - Automatic colors with conditional formatting
 - Automatic number scales with formulas
