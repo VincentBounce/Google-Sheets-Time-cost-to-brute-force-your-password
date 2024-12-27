@@ -4,10 +4,10 @@ r# Time & cost to brute-force your password
 
 **I added automatic dynamic behaviour** to the famous static tables from https://www.hivesystems.com/blog/are-your-passwords-in-the-green
 
-- Automatic colors with conditional formattinř
+- Automatic colors with conditional formatting
 - Automatic number scales with formulas
-- Automatic extrapolation with more password characters
-- Possible to extend with more GPUs & more algorithms & morcharacter setř
+- Automatic extrapolation above 18 password characters
+- Possible to extend with more GPUs & more algorithms & morcharacter set
 
 ## 👌To open it
 
