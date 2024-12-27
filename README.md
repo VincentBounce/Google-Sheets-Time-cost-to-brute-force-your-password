@@ -1,4 +1,4 @@
-# Time & cost to brute-force your password
+r# Time & cost to brute-force your password
 
 ## 📖Dynamic open-source Google Sheets tables
 
