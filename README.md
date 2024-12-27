@@ -2,7 +2,7 @@
 
 ## Google Sheets | dynamic open-source tables
 
-**https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA/** \
+**https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA** \
 Click **File > Make a copy** \
 
 **Now you can select the GPU** \
