@@ -9,7 +9,9 @@
 - Automatic extrapolation with more password characters
 - Possible to extend with more GPUs & algorithms
 
-**https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA** \
+## 👌To open it
+
+Go to **https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA** \
 Click **File > Make a copy**
 
 **Now you can select the GPU** \
