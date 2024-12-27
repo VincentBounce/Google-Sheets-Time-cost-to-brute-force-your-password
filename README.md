@@ -4,10 +4,10 @@
 
 **I added automatic dynamic behaviour** to the famous static tables from https://www.hivesystems.com/blog/are-your-passwords-in-the-green
 
-- Automatic colors
-- Automatic number scales
+- Automatic colors with conditional formattinř
+- Automatic number scales with formulas
 - Automatic extrapolation with more password characters
-- Possible to extend with more GPUs & algorithms
+- Possible to extend with more GPUs & more algorithms & morcharacter setř
 
 ## 👌To open it
 
