@@ -1,8 +1,8 @@
-# Time & cost to brute-force your password
+# 𓊁Google Sheets 🏴‍☠️ Time & cost to brute-force your password
 
 ## 📖Dynamic open-source Google Sheets tables
 
-**I coded automatic dynamic tables** inspired by the famous static tables from https://www.hivesystems.com/blog/are-your-passwords-in-the-green
+**I created automatic dynamic tables** inspired by the famous static tables from https://www.hivesystems.com/blog/are-your-passwords-in-the-green
 
 - Automatic colors with conditional formatting
 - Automatic number scales with formulas
@@ -11,7 +11,7 @@
 
 ## 👌To fork & use my Google Sheets
 
-Go to **https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA** \
+Open **https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA** \
 Click **File > Make a copy**
 
 **Now you can select the GPU** \
