@@ -9,9 +9,10 @@
 - Automatic extrapolation above 18 password characters
 - Possible to extend with more GPUs & more algorithms & morcharacter set
 
-## 👌To fork & use my Google Sheets
+## 👌To fork & use this spreadsheet
 
-Open **https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA** \
+Open **https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA**
+
 Click **File > Make a copy**
 
 **Now you can select the GPU** \
