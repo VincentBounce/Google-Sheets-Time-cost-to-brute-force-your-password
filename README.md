@@ -11,9 +11,9 @@
 
 ## 👌To fork & use this spreadsheet
 
-Open **https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA**
+**Open https://docs.google.com/spreadsheets/d/1VZQvveEN2-p9PLoiMZkveHhv5PCLAH_somR9nHknnvA**
 
-Click **File > Make a copy**
+**Click File > Make a copy**
 
 **Now you can select the GPU** \
 <img width="551" alt="image" src="https://github.com/user-attachments/assets/dfb0943f-b22b-45d6-81a0-b38e8c5193ae" />
